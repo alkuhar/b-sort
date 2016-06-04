@@ -1,0 +1,19 @@
+{
+  "name": "b-sort",
+  "version": "1.0.0",
+  "description": "Sorts an array of numbers using bubble sort",
+  "main": "index.js",
+  "scripts": {
+    "run": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alkuhar/b-sort.git"
+  },
+  "author": "Alex Kukharets",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alkuhar/b-sort/issues"
+  },
+  "homepage": "https://github.com/alkuhar/b-sort#readme"
+}
